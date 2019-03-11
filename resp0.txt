@@ -1,0 +1,21 @@
+C:\Users\roaas\Desktop\L0>doskey/History
+cd Desktop
+git clone https://github.com/IIC2115/Syllabus.git
+cd Syllabus
+cd ..
+git clone https://github.com/roaastudillo/L0.git
+cd L0
+git add texto.txt
+git push
+git push https://github.com/roaastudillo/L0.git
+git remote add https://github.com/roaastudillo/L0.git
+git commit -m "Se sube el texto"
+git config --global user.email "raastudillo@uc.cl"
+git config --global user.name "Rosario Astudillo"
+git push
+git commit -m "Se sube el texto"
+git push
+git pull
+doskey/History
+
+C:\Users\roaas\Desktop\L0>doskey/History
